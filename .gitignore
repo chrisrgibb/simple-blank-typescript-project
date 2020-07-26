@@ -1,0 +1,4 @@
+.DS_Store
+*.gbc
+node_modules/
+dist/
